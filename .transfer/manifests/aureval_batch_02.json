@@ -1,0 +1,27 @@
+{
+  "format": "vn-background-transfer-v1",
+  "assets": [
+    {
+      "filename": "aureval_throne_hall_day.png",
+      "sha256": "c099265e39500e2f70afeafdd90d6992af8a40bf0b647b2ad5e8fe8a73ce43e7",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "chunks": [
+        ".transfer/chunks/aureval_throne_hall_day.png.part00.b64",
+        ".transfer/chunks/aureval_throne_hall_day.png.part01.b64",
+        ".transfer/chunks/aureval_throne_hall_day.png.part02.b64",
+        ".transfer/chunks/aureval_throne_hall_day.png.part03.b64",
+        ".transfer/chunks/aureval_throne_hall_day.png.part04.b64",
+        ".transfer/chunks/aureval_throne_hall_day.png.part05.b64",
+        ".transfer/chunks/aureval_throne_hall_day.png.part06.b64",
+        ".transfer/chunks/aureval_throne_hall_day.png.part07.b64",
+        ".transfer/chunks/aureval_throne_hall_day.png.part08.b64",
+        ".transfer/chunks/aureval_throne_hall_day.png.part09.b64",
+        ".transfer/chunks/aureval_throne_hall_day.png.part10.b64",
+        ".transfer/chunks/aureval_throne_hall_day.png.part11.b64"
+      ]
+    }
+  ]
+}
