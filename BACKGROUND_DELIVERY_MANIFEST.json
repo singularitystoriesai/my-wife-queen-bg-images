@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "target_count": 40,
-  "published_count": 12,
+  "published_count": 13,
   "kagesekai_generation_credits_used": 0,
   "asset_spec": "Original standalone PNG backgrounds, 1086x1448 (3:4), character-free, no composite thumbnail enlargements",
   "assets": [
@@ -79,9 +79,9 @@
     },
     {
       "filename": "veyrgrad_throne_hall_day.png",
-      "status": "pending_generation",
-      "kagesekai_media_id": null,
-      "github_raw_url": null
+      "status": "published",
+      "kagesekai_media_id": "6b015f4103373d2a48a69d9c",
+      "github_raw_url": "https://raw.githubusercontent.com/singularitystoriesai/my-wife-queen-bg-images/main/veyrgrad_throne_hall_day.png"
     },
     {
       "filename": "veyrgrad_throne_hall_night.png",
