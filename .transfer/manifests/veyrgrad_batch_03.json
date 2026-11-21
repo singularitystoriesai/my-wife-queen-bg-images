@@ -1,1 +1,32 @@
-The requested file reference is not currently visible. Use files.search or files.list to rediscover the file, then retry with a returned ref_id or file_id.
+{
+  "format": "vn-background-transfer-v1",
+  "assets": [
+    {
+      "filename": "veyrgrad_throne_hall_day.png",
+      "sha256": "c09bec21d2c3c3d847cd8b4ea0b21d205630feb13232aa65dfc49964579625df",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "chunks": [
+        ".transfer/chunks/veyrgrad_throne_hall_day.png.part00.b64",
+        ".transfer/chunks/veyrgrad_throne_hall_day.png.part01.b64",
+        ".transfer/chunks/veyrgrad_throne_hall_day.png.part02.b64",
+        ".transfer/chunks/veyrgrad_throne_hall_day.png.part03.b64",
+        ".transfer/chunks/veyrgrad_throne_hall_day.png.part04.b64",
+        ".transfer/chunks/veyrgrad_throne_hall_day.png.part05.b64",
+        ".transfer/chunks/veyrgrad_throne_hall_day.png.part06.b64",
+        ".transfer/chunks/veyrgrad_throne_hall_day.png.part07.b64",
+        ".transfer/chunks/veyrgrad_throne_hall_day.png.part08.b64",
+        ".transfer/chunks/veyrgrad_throne_hall_day.png.part09.b64",
+        ".transfer/chunks/veyrgrad_throne_hall_day.png.part10.b64",
+        ".transfer/chunks/veyrgrad_throne_hall_day.png.part11.b64",
+        ".transfer/chunks/veyrgrad_throne_hall_day.png.part12.b64",
+        ".transfer/chunks/veyrgrad_throne_hall_day.png.part13.b64",
+        ".transfer/chunks/veyrgrad_throne_hall_day.png.part14.b64",
+        ".transfer/chunks/veyrgrad_throne_hall_day.png.part15.b64",
+        ".transfer/chunks/veyrgrad_throne_hall_day.png.part16.b64"
+      ]
+    }
+  ]
+}
