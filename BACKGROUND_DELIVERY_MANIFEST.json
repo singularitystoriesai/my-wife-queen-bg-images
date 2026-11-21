@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "target_count": 40,
+  "published_count": 12,
+  "kagesekai_generation_credits_used": 0,
+  "asset_spec": "Original standalone PNG backgrounds, 1086x1448 (3:4), character-free, no composite thumbnail enlargements",
+  "assets": [
+    {
+      "filename": "aureval_palace_exterior_day.png",
+      "status": "published",
+      "kagesekai_media_id": "6b0114f8b28de34c5c2a616d",
+      "github_raw_url": "https://raw.githubusercontent.com/singularitystoriesai/my-wife-queen-bg-images/main/aureval_palace_exterior_day.png"
+    },
+    {
+      "filename": "aureval_throne_hall_day.png",
+      "status": "published",
+      "kagesekai_media_id": "6b01171f0636dba1c558b9c1",
+      "github_raw_url": "https://raw.githubusercontent.com/singularitystoriesai/my-wife-queen-bg-images/main/aureval_throne_hall_day.png"
+    },
+    {
+      "filename": "aureval_throne_hall_night.png",
+      "status": "published",
+      "kagesekai_media_id": "6b011a8a43e9a76a3e064684",
+      "github_raw_url": "https://raw.githubusercontent.com/singularitystoriesai/my-wife-queen-bg-images/main/aureval_throne_hall_night.png"
+    },
+    {
+      "filename": "aureval_royal_bedroom_day.png",
+      "status": "published",
+      "kagesekai_media_id": "6b011abf8082fbe0d90d25c9",
+      "github_raw_url": "https://raw.githubusercontent.com/singularitystoriesai/my-wife-queen-bg-images/main/aureval_royal_bedroom_day.png"
+    },
+    {
+      "filename": "aureval_royal_bedroom_night.png",
+      "status": "published",
+      "kagesekai_media_id": "6b011ac42f2f363b86e84f74",
+      "github_raw_url": "https://raw.githubusercontent.com/singularitystoriesai/my-wife-queen-bg-images/main/aureval_royal_bedroom_night.png"
+    },
+    {
+      "filename": "aureval_royal_baths_day.png",
+      "status": "published",
+      "kagesekai_media_id": "6b011ab5968252e7bd1389c3",
+      "github_raw_url": "https://raw.githubusercontent.com/singularitystoriesai/my-wife-queen-bg-images/main/aureval_royal_baths_day.png"
+    },
+    {
+      "filename": "aureval_royal_baths_night.png",
+      "status": "published",
+      "kagesekai_media_id": "6b011aba028426eb31e6b8e2",
+      "github_raw_url": "https://raw.githubusercontent.com/singularitystoriesai/my-wife-queen-bg-images/main/aureval_royal_baths_night.png"
+    },
+    {
+      "filename": "aureval_royal_library_day.png",
+      "status": "published",
+      "kagesekai_media_id": "6b011acbe5a0ea03191f8741",
+      "github_raw_url": "https://raw.githubusercontent.com/singularitystoriesai/my-wife-queen-bg-images/main/aureval_royal_library_day.png"
+    },
+    {
+      "filename": "aureval_royal_library_night.png",
+      "status": "published",
+      "kagesekai_media_id": "6b011ad22c48452cf1cdbc9d",
+      "github_raw_url": "https://raw.githubusercontent.com/singularitystoriesai/my-wife-queen-bg-images/main/aureval_royal_library_night.png"
+    },
+    {
+      "filename": "aureval_royal_lounge_day.png",
+      "status": "published",
+      "kagesekai_media_id": "6b011ad82f2f363b86e859d3",
+      "github_raw_url": "https://raw.githubusercontent.com/singularitystoriesai/my-wife-queen-bg-images/main/aureval_royal_lounge_day.png"
+    },
+    {
+      "filename": "veyrgrad_fortress_exterior_day.png",
+      "status": "published",
+      "kagesekai_media_id": "6b011c42da36124ea6f8a4ae",
+      "github_raw_url": "https://raw.githubusercontent.com/singularitystoriesai/my-wife-queen-bg-images/main/veyrgrad_fortress_exterior_day.png"
+    },
+    {
+      "filename": "veyrgrad_fortress_exterior_night.png",
+      "status": "published",
+      "kagesekai_media_id": "6b0156ce2ce7892f9a09c863",
+      "github_raw_url": "https://raw.githubusercontent.com/singularitystoriesai/my-wife-queen-bg-images/main/veyrgrad_fortress_exterior_night.png"
+    },
+    {
+      "filename": "veyrgrad_throne_hall_day.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "veyrgrad_throne_hall_night.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "veyrgrad_royal_bedroom_day.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "veyrgrad_royal_bedroom_night.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "veyrgrad_royal_baths_day.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "veyrgrad_royal_baths_night.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "veyrgrad_royal_lounge_day.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "veyrgrad_royal_lounge_night.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "kembala_palace_exterior_day.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "kembala_palace_exterior_night.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "kembala_throne_hall_day.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "kembala_throne_hall_night.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "kembala_royal_bedroom_day.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "kembala_royal_bedroom_night.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "kembala_royal_baths_day.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "kembala_royal_baths_night.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "kembala_royal_lounge_day.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "kembala_royal_lounge_night.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "zahramir_palace_exterior_day.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "zahramir_palace_exterior_night.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "zahramir_throne_hall_day.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "zahramir_throne_hall_night.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "zahramir_royal_bedroom_day.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "zahramir_royal_bedroom_night.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "zahramir_royal_baths_day.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "zahramir_royal_baths_night.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "zahramir_royal_lounge_day.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    },
+    {
+      "filename": "zahramir_royal_lounge_night.png",
+      "status": "pending_generation",
+      "kagesekai_media_id": null,
+      "github_raw_url": null
+    }
+  ]
+}
