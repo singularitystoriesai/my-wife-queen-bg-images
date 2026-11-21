@@ -1,0 +1,55 @@
+{
+  "format": "vn-background-transfer-v1",
+  "assets": [
+    {
+      "filename": "kembala_palace_exterior_day.png",
+      "sha256": "29e161d64121debba6508cc3dae53766baa91f6237c6054ee8fd9b6c76cf624d",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "chunks": [
+        ".transfer/chunks/kembala_palace_exterior_day.png.part00.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part01.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part02.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part03.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part04.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part05.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part06.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part07.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part08.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part09.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part10.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part11.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part12.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part13.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part14.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part15.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part16.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part17.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part18.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part19.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part20.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part21.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part22.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part23.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part24.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part25.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part26.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part27.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part28.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part29.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part30.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part31.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part32.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part33.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part34.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part35.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part36.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part37.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part38.b64",
+        ".transfer/chunks/kembala_palace_exterior_day.png.part39.b64"
+      ]
+    }
+  ]
+}
