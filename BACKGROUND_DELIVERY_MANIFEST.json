@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "target_count": 40,
-  "published_count": 20,
+  "published_count": 21,
   "kagesekai_generation_credits_used": 0,
   "asset_spec": "Original standalone PNG backgrounds, 1086x1448 (3:4), character-free, no composite thumbnail enlargements",
   "assets": [
@@ -127,9 +127,9 @@
     },
     {
       "filename": "kembala_palace_exterior_day.png",
-      "status": "pending_generation",
-      "kagesekai_media_id": null,
-      "github_raw_url": null
+      "status": "published",
+      "kagesekai_media_id": "6b02059b0636dba1c5f3cf36",
+      "github_raw_url": "https://raw.githubusercontent.com/singularitystoriesai/my-wife-queen-bg-images/main/kembala_palace_exterior_day.png"
     },
     {
       "filename": "kembala_palace_exterior_night.png",
