@@ -18,7 +18,7 @@ for manifest in sorted((root / ".transfer/manifests").glob("*.json")):
         digest = hashlib.sha256(binary).hexdigest()
         if digest != item["sha256"]:
             raise SystemExit(f"Checksum mismatch for {target.name}: {digest}")
-        if not binary.startswith(b"\\x89PNG\\r\\n\\x1a\\n"):
+        if not binary.startswith(bytes.fromhex("89504e470d0a1a0a")):
             raise SystemExit("Not PNG: " + target.name)
         width, height = struct.unpack(">II", binary[16:24])
         if (width,height) != tuple(item["dimensions"]):
