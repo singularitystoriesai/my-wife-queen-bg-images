@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "target_count": 40,
-  "published_count": 19,
+  "published_count": 20,
   "kagesekai_generation_credits_used": 0,
   "asset_spec": "Original standalone PNG backgrounds, 1086x1448 (3:4), character-free, no composite thumbnail enlargements",
   "assets": [
@@ -121,9 +121,9 @@
     },
     {
       "filename": "veyrgrad_royal_lounge_night.png",
-      "status": "pending_generation",
-      "kagesekai_media_id": null,
-      "github_raw_url": null
+      "status": "published",
+      "kagesekai_media_id": "6b01cfff0636dba1c5d0a29e",
+      "github_raw_url": "https://raw.githubusercontent.com/singularitystoriesai/my-wife-queen-bg-images/main/veyrgrad_royal_lounge_night.png"
     },
     {
       "filename": "kembala_palace_exterior_day.png",
