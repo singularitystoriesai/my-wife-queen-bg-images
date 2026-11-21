@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "target_count": 40,
-  "published_count": 15,
+  "published_count": 16,
   "kagesekai_generation_credits_used": 0,
   "asset_spec": "Original standalone PNG backgrounds, 1086x1448 (3:4), character-free, no composite thumbnail enlargements",
   "assets": [
@@ -97,9 +97,9 @@
     },
     {
       "filename": "veyrgrad_royal_bedroom_night.png",
-      "status": "pending_generation",
-      "kagesekai_media_id": null,
-      "github_raw_url": null
+      "status": "published",
+      "kagesekai_media_id": "6b0198df50b3c421b6f5cbb7",
+      "github_raw_url": "https://raw.githubusercontent.com/singularitystoriesai/my-wife-queen-bg-images/main/veyrgrad_royal_bedroom_night.png"
     },
     {
       "filename": "veyrgrad_royal_baths_day.png",
