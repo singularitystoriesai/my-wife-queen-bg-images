@@ -1,0 +1,159 @@
+{
+  "format": "vn-background-transfer-v1",
+  "assets": [
+    {
+      "filename": "aureval_royal_bedroom_day.png",
+      "sha256": "2fb597eb497e5f4b93fe4beb29a54a2136ff6bbfdcdd3f058cab9808512e1cf7",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "chunks": [
+        ".transfer/chunks/aureval_royal_bedroom_day.png.part00.b64",
+        ".transfer/chunks/aureval_royal_bedroom_day.png.part01.b64",
+        ".transfer/chunks/aureval_royal_bedroom_day.png.part02.b64",
+        ".transfer/chunks/aureval_royal_bedroom_day.png.part03.b64",
+        ".transfer/chunks/aureval_royal_bedroom_day.png.part04.b64",
+        ".transfer/chunks/aureval_royal_bedroom_day.png.part05.b64",
+        ".transfer/chunks/aureval_royal_bedroom_day.png.part06.b64",
+        ".transfer/chunks/aureval_royal_bedroom_day.png.part07.b64",
+        ".transfer/chunks/aureval_royal_bedroom_day.png.part08.b64",
+        ".transfer/chunks/aureval_royal_bedroom_day.png.part09.b64",
+        ".transfer/chunks/aureval_royal_bedroom_day.png.part10.b64",
+        ".transfer/chunks/aureval_royal_bedroom_day.png.part11.b64"
+      ]
+    },
+    {
+      "filename": "aureval_royal_bedroom_night.png",
+      "sha256": "e05a0904ca820d5f09f0e692e841388fce5d7a5c07bb5c02a1b6414b097b03a6",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "chunks": [
+        ".transfer/chunks/aureval_royal_bedroom_night.png.part00.b64",
+        ".transfer/chunks/aureval_royal_bedroom_night.png.part01.b64",
+        ".transfer/chunks/aureval_royal_bedroom_night.png.part02.b64",
+        ".transfer/chunks/aureval_royal_bedroom_night.png.part03.b64",
+        ".transfer/chunks/aureval_royal_bedroom_night.png.part04.b64",
+        ".transfer/chunks/aureval_royal_bedroom_night.png.part05.b64",
+        ".transfer/chunks/aureval_royal_bedroom_night.png.part06.b64",
+        ".transfer/chunks/aureval_royal_bedroom_night.png.part07.b64",
+        ".transfer/chunks/aureval_royal_bedroom_night.png.part08.b64",
+        ".transfer/chunks/aureval_royal_bedroom_night.png.part09.b64",
+        ".transfer/chunks/aureval_royal_bedroom_night.png.part10.b64"
+      ]
+    },
+    {
+      "filename": "aureval_royal_baths_day.png",
+      "sha256": "b2cd13109288250a6c10702d020bbae91018d2b26962e67c9e004492812d1a6e",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "chunks": [
+        ".transfer/chunks/aureval_royal_baths_day.png.part00.b64",
+        ".transfer/chunks/aureval_royal_baths_day.png.part01.b64",
+        ".transfer/chunks/aureval_royal_baths_day.png.part02.b64",
+        ".transfer/chunks/aureval_royal_baths_day.png.part03.b64",
+        ".transfer/chunks/aureval_royal_baths_day.png.part04.b64",
+        ".transfer/chunks/aureval_royal_baths_day.png.part05.b64",
+        ".transfer/chunks/aureval_royal_baths_day.png.part06.b64",
+        ".transfer/chunks/aureval_royal_baths_day.png.part07.b64",
+        ".transfer/chunks/aureval_royal_baths_day.png.part08.b64",
+        ".transfer/chunks/aureval_royal_baths_day.png.part09.b64",
+        ".transfer/chunks/aureval_royal_baths_day.png.part10.b64",
+        ".transfer/chunks/aureval_royal_baths_day.png.part11.b64"
+      ]
+    },
+    {
+      "filename": "aureval_royal_baths_night.png",
+      "sha256": "53e30443b296ab7e0fabd71efcf1f940029b7793c3d99eb04f0131c73282a495",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "chunks": [
+        ".transfer/chunks/aureval_royal_baths_night.png.part00.b64",
+        ".transfer/chunks/aureval_royal_baths_night.png.part01.b64",
+        ".transfer/chunks/aureval_royal_baths_night.png.part02.b64",
+        ".transfer/chunks/aureval_royal_baths_night.png.part03.b64",
+        ".transfer/chunks/aureval_royal_baths_night.png.part04.b64",
+        ".transfer/chunks/aureval_royal_baths_night.png.part05.b64",
+        ".transfer/chunks/aureval_royal_baths_night.png.part06.b64",
+        ".transfer/chunks/aureval_royal_baths_night.png.part07.b64",
+        ".transfer/chunks/aureval_royal_baths_night.png.part08.b64",
+        ".transfer/chunks/aureval_royal_baths_night.png.part09.b64",
+        ".transfer/chunks/aureval_royal_baths_night.png.part10.b64",
+        ".transfer/chunks/aureval_royal_baths_night.png.part11.b64"
+      ]
+    },
+    {
+      "filename": "aureval_royal_library_day.png",
+      "sha256": "e7a70af6660e3fc77a4b30538d722d06c947e5d399796d9e1d966a1e15b9fdd2",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "chunks": [
+        ".transfer/chunks/aureval_royal_library_day.png.part00.b64",
+        ".transfer/chunks/aureval_royal_library_day.png.part01.b64",
+        ".transfer/chunks/aureval_royal_library_day.png.part02.b64",
+        ".transfer/chunks/aureval_royal_library_day.png.part03.b64",
+        ".transfer/chunks/aureval_royal_library_day.png.part04.b64",
+        ".transfer/chunks/aureval_royal_library_day.png.part05.b64",
+        ".transfer/chunks/aureval_royal_library_day.png.part06.b64",
+        ".transfer/chunks/aureval_royal_library_day.png.part07.b64",
+        ".transfer/chunks/aureval_royal_library_day.png.part08.b64",
+        ".transfer/chunks/aureval_royal_library_day.png.part09.b64",
+        ".transfer/chunks/aureval_royal_library_day.png.part10.b64",
+        ".transfer/chunks/aureval_royal_library_day.png.part11.b64",
+        ".transfer/chunks/aureval_royal_library_day.png.part12.b64"
+      ]
+    },
+    {
+      "filename": "aureval_royal_library_night.png",
+      "sha256": "a79f1874c9819e10a091e1e6164259ee5f82da9b5d6cac041ddbdf0a6a28f2be",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "chunks": [
+        ".transfer/chunks/aureval_royal_library_night.png.part00.b64",
+        ".transfer/chunks/aureval_royal_library_night.png.part01.b64",
+        ".transfer/chunks/aureval_royal_library_night.png.part02.b64",
+        ".transfer/chunks/aureval_royal_library_night.png.part03.b64",
+        ".transfer/chunks/aureval_royal_library_night.png.part04.b64",
+        ".transfer/chunks/aureval_royal_library_night.png.part05.b64",
+        ".transfer/chunks/aureval_royal_library_night.png.part06.b64",
+        ".transfer/chunks/aureval_royal_library_night.png.part07.b64",
+        ".transfer/chunks/aureval_royal_library_night.png.part08.b64",
+        ".transfer/chunks/aureval_royal_library_night.png.part09.b64",
+        ".transfer/chunks/aureval_royal_library_night.png.part10.b64",
+        ".transfer/chunks/aureval_royal_library_night.png.part11.b64"
+      ]
+    },
+    {
+      "filename": "aureval_royal_lounge_day.png",
+      "sha256": "8528aeffb013259e4b4fc2cb2543add92d7ff4121dbb39014ac5f6340be7eeed",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "chunks": [
+        ".transfer/chunks/aureval_royal_lounge_day.png.part00.b64",
+        ".transfer/chunks/aureval_royal_lounge_day.png.part01.b64",
+        ".transfer/chunks/aureval_royal_lounge_day.png.part02.b64",
+        ".transfer/chunks/aureval_royal_lounge_day.png.part03.b64",
+        ".transfer/chunks/aureval_royal_lounge_day.png.part04.b64",
+        ".transfer/chunks/aureval_royal_lounge_day.png.part05.b64",
+        ".transfer/chunks/aureval_royal_lounge_day.png.part06.b64",
+        ".transfer/chunks/aureval_royal_lounge_day.png.part07.b64",
+        ".transfer/chunks/aureval_royal_lounge_day.png.part08.b64",
+        ".transfer/chunks/aureval_royal_lounge_day.png.part09.b64",
+        ".transfer/chunks/aureval_royal_lounge_day.png.part10.b64",
+        ".transfer/chunks/aureval_royal_lounge_day.png.part11.b64"
+      ]
+    }
+  ]
+}
