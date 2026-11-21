@@ -1,0 +1,46 @@
+{
+  "format": "vn-background-transfer-v1",
+  "assets": [
+    {
+      "filename": "veyrgrad_royal_lounge_night.png",
+      "sha256": "1593eeb616574c038b0c84924eafa0c334926d04d9d39e47dd9f1e992a09ba19",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "chunks": [
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part00.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part01.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part02.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part03.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part04.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part05.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part06.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part07.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part08.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part09.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part10.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part11.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part12.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part13.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part14.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part15.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part16.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part17.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part18.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part19.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part20.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part21.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part22.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part23.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part24.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part25.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part26.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part27.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part28.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part29.b64",
+        ".transfer/chunks/veyrgrad_royal_lounge_night.png.part30.b64"
+      ]
+    }
+  ]
+}
