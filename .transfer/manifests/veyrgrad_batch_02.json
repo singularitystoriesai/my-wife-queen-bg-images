@@ -1,0 +1,26 @@
+{
+  "format": "vn-background-transfer-v1",
+  "assets": [
+    {
+      "filename": "veyrgrad_fortress_exterior_night.png",
+      "sha256": "677c89648803b7267628c87f947856abba72f0bec895fcaceb675a5d5e1890a5",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "chunks": [
+        ".transfer/chunks/veyrgrad_fortress_exterior_night.png.part00.b64",
+        ".transfer/chunks/veyrgrad_fortress_exterior_night.png.part01.b64",
+        ".transfer/chunks/veyrgrad_fortress_exterior_night.png.part02.b64",
+        ".transfer/chunks/veyrgrad_fortress_exterior_night.png.part03.b64",
+        ".transfer/chunks/veyrgrad_fortress_exterior_night.png.part04.b64",
+        ".transfer/chunks/veyrgrad_fortress_exterior_night.png.part05.b64",
+        ".transfer/chunks/veyrgrad_fortress_exterior_night.png.part06.b64",
+        ".transfer/chunks/veyrgrad_fortress_exterior_night.png.part07.b64",
+        ".transfer/chunks/veyrgrad_fortress_exterior_night.png.part08.b64",
+        ".transfer/chunks/veyrgrad_fortress_exterior_night.png.part09.b64",
+        ".transfer/chunks/veyrgrad_fortress_exterior_night.png.part10.b64"
+      ]
+    }
+  ]
+}
