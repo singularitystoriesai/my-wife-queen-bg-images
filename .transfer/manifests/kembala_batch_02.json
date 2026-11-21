@@ -1,0 +1,54 @@
+{
+  "format": "vn-background-transfer-v1",
+  "assets": [
+    {
+      "filename": "kembala_palace_exterior_night.png",
+      "sha256": "3ebb6677ff088268a67688ef9b204a7b21b3dea6d9c86098d325e929cdc0b5ce",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "chunks": [
+        ".transfer/chunks/kembala_palace_exterior_night.png.part00.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part01.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part02.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part03.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part04.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part05.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part06.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part07.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part08.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part09.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part10.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part11.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part12.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part13.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part14.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part15.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part16.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part17.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part18.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part19.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part20.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part21.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part22.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part23.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part24.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part25.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part26.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part27.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part28.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part29.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part30.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part31.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part32.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part33.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part34.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part35.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part36.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part37.b64",
+        ".transfer/chunks/kembala_palace_exterior_night.png.part38.b64"
+      ]
+    }
+  ]
+}
