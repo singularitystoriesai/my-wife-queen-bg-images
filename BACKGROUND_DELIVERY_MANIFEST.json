@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "target_count": 40,
-  "published_count": 27,
+  "published_count": 28,
   "kagesekai_generation_credits_used": 0,
   "asset_spec": "Original standalone PNG backgrounds, 1086x1448 (3:4), character-free, no composite thumbnail enlargements",
   "assets": [
@@ -175,9 +175,9 @@
     },
     {
       "filename": "kembala_royal_lounge_day.png",
-      "status": "pending_generation",
-      "kagesekai_media_id": null,
-      "github_raw_url": null
+      "status": "published",
+      "kagesekai_media_id": "6b02b1586a06b2886208a3b0",
+      "github_raw_url": "https://raw.githubusercontent.com/singularitystoriesai/my-wife-queen-bg-images/main/kembala_royal_lounge_day.png"
     },
     {
       "filename": "kembala_royal_lounge_night.png",
